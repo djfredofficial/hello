@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "reeves.cf",
+  "Id": "d9ab74fa-404d-468e-bda0-0e0a4913d4f7"
+}
